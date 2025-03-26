@@ -6,7 +6,9 @@ My induction into the music world began when I was 8 years old and my brother ma
 
 In this tutorial, I will describe how I came to make "Evil and Oppression", a biblical poem by Isaiah 59, as if it was featured in the Family Values Tour of 1999.
 
-https://www.riffusion.com/song/07f5e327-5217-4f57-a1d8-ab4a958bd3f1
+## Note: Github doesn't automatically open links in new window, so please open links by either using middle-mouse click or right-click and open in a new tab.
+
+Listen to the complete song here: https://www.riffusion.com/song/07f5e327-5217-4f57-a1d8-ab4a958bd3f1
 
 ## A little bit of music theory
 
