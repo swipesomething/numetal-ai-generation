@@ -33,7 +33,7 @@ We'll try to extend it, starting from when the intro ends, and add some lyrics. 
 - 27th try: https://www.riffusion.com/song/70720efd-ec14-47d8-aa51-71939e108485
   - It feels like the more descriptive tags I add, the worse it gets. Either I don't know how to use this feature, or it could also just be that the FUZZ-0.8 model used at the time of this creation wasn't trained on nu-metal.
 
-Riffusion users should remind themselves that it isn't forbidden to play around with the song outside Riffusion. In fact, it's low-key encouraged as Riffusion gives you everything you need; you can download the stems (a zip file with all the instruments of your song in individual tracks). With the stems, you can put your song in your favorite DAW (Digital Audio Workstation), chop samples, add effects, and essentially use the same techniques that a professional producer would use. I personally use FL Studio as I purchased it forever ago, but if you're not looking to buy, you can still work with the demo version (you will be able to export your track as a `.wav` or `.mp3` but you won't be able to save your project file).
+Riffusion users should be reminded that it isn't forbidden to play around with the song outside Riffusion. In fact, it's low-key encouraged as Riffusion gives you everything you need; you can download the stems (a zip file with all the instruments of your song in individual tracks). With the stems, you can put your song in your favorite DAW (Digital Audio Workstation), chop samples, add effects, and essentially use the same techniques that a professional producer would use. I personally use FL Studio as I purchased it forever ago, but if you're not looking to buy, you can still work with the demo version (you will be able to export your track as a `.wav` or `.mp3` but you won't be able to save your project file).
 
 ## Getting the stems in our DAW
 
@@ -57,7 +57,7 @@ After tapping enough, I've determined that the tempo is probably 108. To ensure 
 
 ## Chopping samples
 
-Okay looks like the tempo is good, we can work this track. The advantage of taking it off Riffusion is that you get to chop samples and reuse parts that you want. Consider the case of my first track; As much as I love it, I could never get the last chorus to be the same as the first chorus. See for yourself, listen to "Floating Point Style" and then compare all Choruses, you'll find that they say the same thing but the instrumental isn't the same from chorus to chorus: https://www.riffusion.com/song/c8b6e28a-154a-4701-ad1b-6da9e85945d6
+Okay looks like the tempo is good, we can work this track. The advantage of taking it off Riffusion is that you get to chop samples and reuse parts that you want. Consider the case of my first track; As much as I love it, I could never get the last chorus to be the same as the first chorus. See for yourself, listen to "Floating Point Style" and then compare the first chorus with the last one, you'll find that they say the same thing but the instrumental isn't the same between them: https://www.riffusion.com/song/c8b6e28a-154a-4701-ad1b-6da9e85945d6
 
 Since we're working with a DAW now, we can chop the first chorus and reuse it whenever we need it. This ensures that our sound stays consistent throughout the track as it would with a so-called "real song". Ultimately, **we can also generate countless extensions from our base track** and then extract the stems, chop samples, rearrange, add new parts. We could even go beyond the 4:00 minutes limit though I am not sure that you would be able to upload your track on Riffusion thereafter.
 
@@ -90,11 +90,13 @@ With the stems, we'll extract the vocals from the transformed song, and discard 
 
 ## Extending the song even more
 
-Now it wouldn't be a KoЯn song without some nerve-wracking buildup of anxiety-inducing repetitive vocals that increase intensity. Let's see if I can sing over the song again and upload it to Riffusion, Cover it at 15% and see what happens. First, my singing part:
+Now it wouldn't be a KoЯn song without some nerve-wracking buildup of anxiety-inducing repetitive vocals that increase intensity. Let's see if I can sing over the song again and upload it to Riffusion, Cover it at 15% and see what happens.
+
+First, here's what I'm uploading on Riffusion:
 
 [intercede.mp3](https://baconwood.net/intercede.mp3)
 
-Now the new version:
+Now the new "Cover" version:
 
 [intercede2.mp3](https://baconwood.net/intercedev2.mp3)
 
