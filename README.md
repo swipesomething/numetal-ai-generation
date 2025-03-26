@@ -1,6 +1,6 @@
 # Making KoЯn-style nu-metal on Riffusion
 
-![image](https://github.com/user-attachments/assets/bd8077d0-0658-4a7e-852f-e6c1fe3518f6)
+![EvilAndOppression](https://github.com/user-attachments/assets/24a5e369-8ecb-4a4a-8fb3-5162ae0c65e5)
 
 My induction into the music world began when I was 8 years old and my brother made me listen to KoЯn - No place to hide, from the "Life is Peachy" album. It's been the centerpiece of my musical taste for the years to come, eventually leading me towards Slipknot and then opening up towards metal in general. A Riffusion contest organised by the community for reimagining "Mary had a little lamb" gave me the idea of trying to make some KoЯn in Riffusion, after all, Jonathan Davis does scream it 8 times in their 1994 song "Shoots and Ladders". If you're like me and you grew with metal and hip hop, you know that just like Wu-Tang, KoЯn is for the children.
 
