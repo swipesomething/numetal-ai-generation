@@ -76,7 +76,7 @@ The resulting version is "okay", but you can tell that I could use some more pra
 
 ## Making better vocals
 
-If you've ever worked with image generation software like Stable Diffusion, you've likely heard of a concept called "denoising". When you take an image, you set the denoise at 50% and it's like telling the AI "use this image but you can only change 50% of it". I have come to understand that the Cover feature of Riffusion sort of works like that; if you set it to 15%, you only allow for 15% of variance. This should change the voice sufficiently enough for me to be unrecognizable while still preserving details like pitch, inflections, tone, pace, and articulation. Let's see what happens.
+If you've ever worked with image generation software like Stable Diffusion, you've likely heard of a concept called "denoising". When you take an image, you set the denoise at 50% and it's like telling the AI "use this image but you can only change 50% of it". I have come to understand that the Cover feature of Riffusion sort of works like that; if you set it to 15%, you only allow for 15% of variance. This should change the voice sufficiently enough for me to be unrecognizable while still preserving details like pitch, inflections, tone, pace, and articulation. Let's upload this version to Riffusion and make a cover out of it, using the same prompts, and adjusting the variation at 15%.
 
 ![image](https://github.com/user-attachments/assets/74531b2b-76e5-4648-a300-0e59f37693f2)
 
