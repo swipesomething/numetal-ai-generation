@@ -100,7 +100,7 @@ Now the new version:
 
 ## Finishing touches
 
-Well, all there's left now is to put it together and upload back on Riffusion. Usually I try to leave something to fix so I can upload it and use the replace or extend function to either fix some annoyance or extend the track to get the right ending. That's also a good time to fix any lyrics you may have written incorrectly or anything of the kind. Trim if necessary, add an image to the song. I can't remember the exact prompt but it went along the lines of "little girl looking out the window, there is a nu-metal concert happening in her backyard", combining the childlish imagery of "Follow the Leader" album and the narrative charge of "Falling away from me" as the girl escapes from her second floor bedroom, the crowd chanting and helping her out of it
+Well, all there's left now is to put it together and upload back on Riffusion. Usually I try to leave something to fix so I can upload it and use the replace or extend function to either fix some annoyance or extend the track to get the right ending. That's also a good time to fix any lyrics you may have written incorrectly or anything of the kind. Trim if necessary, add an image to the song. I can't remember the exact prompt but it went along the lines of "little girl looking out the window, there is a nu-metal concert happening in her backyard", combining the childlish imagery of "Follow the Leader" album and the narrative charge of "Falling away from me" as the girl escapes from her second floor bedroom, the crowd chanting and helping her out of it.
 
 https://youtu.be/2s3iGpDqQpQ?si=2CDfTOBtBXT4txoJ&t=260
 
