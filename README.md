@@ -80,24 +80,23 @@ If you've ever worked with image generation software like Stable Diffusion, you'
 
 ![image](https://github.com/user-attachments/assets/74531b2b-76e5-4648-a300-0e59f37693f2)
 
-[Evil and oppression vocal fix.mp3
-](https://baconwood.net/evil_and_oppression_vocal_fix.mp3)
+[Evil and oppression vocal fix.mp3](https://baconwood.net/evil_and_oppression_vocal_fix.mp3)
 
 Not bad but... Riffusion sort of destroyed all the surrounding music as well it seems. I don't think it's a limitation of Riffusion as much as it is a limitation of AI technology; we're allowing the AI to reshape 15% of _the entire song_, so naturally it does all the instruments. But that's okay! **Because we can extract the STEMS AGAIN!**
 
 With the stems, we'll extract the vocals from the transformed song, and discard the rest. Then, we'll paste it over the original version that we worked on the DAW. Let's hear it now!
 
+[isaiah-59-v2.mp3](https://baconwood.net/isaiah-59-v2.mp3)
+
 ## Extending the song even more
 
 Now it wouldn't be a KoЯn song without some nerve-wracking buildup of anxiety-inducing repetitive vocals that increase intensity. Let's see if I can sing over the song again and upload it to Riffusion, Cover it at 15% and see what happens. First, my singing part:
 
-[intercede.mp3
-](https://baconwood.net/intercede.mp3)
+[intercede.mp3](https://baconwood.net/intercede.mp3)
 
 Now the new version:
 
-[intercede2.mp3
-](https://baconwood.net/intercedev2.mp3)
+[intercede2.mp3](https://baconwood.net/intercedev2.mp3)
 
 ## Finishing touches
 
